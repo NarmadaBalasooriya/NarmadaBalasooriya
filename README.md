@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NarmadaBalasooriya
 - 👀 I’m interested in Deep Learning, Computer Vision and Robotics
-- 🌱 I’m currently learning ROS,SLAM,VLOAM, Operating Systems, Parallel Computing
+- 🌱 I’m currently doing PhD in Robotics at University of Technology Sydney, Australia
 - 💞️ I’m looking to collaborate on Deep Learning and Computer Vision for autonomous vehicles
 - 📫 How to reach me - narmadabalasooriya@gmail.com, +61-451-732367
 <!---
